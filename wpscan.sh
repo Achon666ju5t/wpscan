@@ -1,8 +1,6 @@
 #!/bin/bash
 #CMS Scanner
 #thank's to IndoXploit - Extreme Crew
-# create function
-
 cyan='\033[0;36m'
 kuning='\033[1;33m'
 putih='\033[0m'
