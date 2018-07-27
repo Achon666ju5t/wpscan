@@ -1,6 +1,7 @@
 #!/bin/bash
+#Contact me : Achonxhax0r@outlook.com
 #CMS Scanner
-#thank's to IndoXploit - Extreme Crew
+#thank's to IndoXploit - Extreme Crew - Bc0de.net - ZeroByte.id
 cyan='\033[0;36m'
 kuning='\033[1;33m'
 putih='\033[0m'
